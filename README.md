@@ -1,1 +1,2 @@
-# mlp_data_banknote_authentication
+Tugas 1 Jaringan Syaraf Tiruan
+Progam : Python
